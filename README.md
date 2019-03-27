@@ -1,2 +1,3 @@
 # texday
-texday de mars
+texday du  27 mars
+a paris
